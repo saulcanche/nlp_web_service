@@ -35,8 +35,8 @@ El servicio web corre en el puerto `5000`, mientras que la interfaz web opera en
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd nlp_ws
+   git clone https://github.com/saulcanche/nlp_web_service/
+   cd nlp_web_service
    ```
 2. Configura un entorno virtual y actívalo:
    ```bash
